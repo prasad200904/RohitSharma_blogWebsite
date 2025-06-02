@@ -1,0 +1,70 @@
+.my-navbar {
+    background-color: #0065F8 !important;
+}
+.my-logo{
+    color: white !important;
+    font-weight: bold;
+}
+.my-menu{
+    color: white !important;
+}
+.container-my {
+    width: 900px;
+    margin-left: 0px;
+
+}
+.my-table {
+    background-color:#0065F8 !important;
+}
+.custom-row {
+    background-color: #0065F8 !important;
+    color:white;
+}
+.custom-cell {
+    background-color: #0065F8 !important;
+    color: white !important;
+}
+.my-footer{
+    height: 90px !important;
+    padding: 2em;
+    color: white;
+}
+.logo-img{
+    display: flex;
+    margin-left: 700px;
+    gap: 10px;
+}
+.logo-1{
+    width: 40px;
+}
+.logo-2{
+    width: 30px;
+}
+.logo-3{
+    width: 30px;
+}
+.about-info{
+    margin-top: 40px;
+    font-weight: bold;
+    color: #0065F8;
+}
+.article{
+    display: flex;
+    gap: 10px;
+}
+.my-height{
+    padding: 2em;
+}
+.my-padd{
+    font-weight: bold;
+    color: white;
+}
+.record-45{
+    padding: 2em;
+}
+.list{
+    padding: 1em;
+}
+.hitman-45{
+    margin-left: 50px;
+}
