@@ -1,30 +1,31 @@
-# Rohit Sharma Blog Website
-
-Welcome to the **Rohit Sharma Blog Website** repository!
-
-This is a personal blog website built with HTML, CSS, and Bootstrap. It includes multiple pages such as home, blog, about, and records pages, along with images and styling.
-
-## Features
-
-- Responsive design using Bootstrap CSS framework
-- Multiple pages: Home, Blog, About, Records
-- Organized assets: CSS and Images folders
-
-## How to view the website
-
-You can view the live website hosted via GitHub Pages here:  
-https://prasad200904.github.io/RohitSharma_blogWebsite/
-
-Or, clone this repo and open `index.html` in your browser.
-
-## How to contribute
-
-Feel free to fork the repository and submit pull requests.
-
-## License
-
-This project is open source and free to use.
 
 ---
 
-Thank you for visiting!
+## ✅ 3. `Blog-Website` – README.md
+
+```markdown
+# Blog Website – Next.js + MongoDB
+
+A full-featured blogging platform using Next.js, MongoDB Atlas, and React-Quill for rich text editing.
+
+## 🌐 Live Demo
+[Click here]https://prasad200904.github.io/RohitSharma_blogWebsite/
+
+## 🚀 Tech Stack
+- Next.js
+- MongoDB Atlas
+- React-Quill (Rich Text Editor)
+- Tailwind CSS
+
+## ✨ Features
+- Create, edit, delete blog posts
+- Rich text formatting
+- Fetch all posts from backend API
+- MongoDB connection via Mongoose
+
+## 🛠 How to Run
+```bash
+git clone https://github.com/prasad200904/Blog-Website.git
+cd Blog-Website
+npm install
+npm run dev
